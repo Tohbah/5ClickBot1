@@ -3,6 +3,6 @@ python bot.py +2348168067666 zec
 python bot.py +2348168067666 ltc
 python bot.py +2348168067666 btc
 python bot.py +2348168067666 bch
-clear
-h2ommed
+
+Pwd:h2ommed
 bash sart.sh
